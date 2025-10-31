@@ -1,0 +1,58 @@
+[
+  {
+    "id": "trees-bees",
+    "title": "Xih Labs",
+    "date": "October 2025",
+    "image": "/xihlabs.png",
+    "description": "An interactive 3D visualization exploring the relationship between trees and pollinators",
+    "tags": ["Three.js", "WebGL", "Nature"],
+    "link": "/garden/trees"
+  },
+  {
+    "id": "knobs",
+    "title": "Clouds",
+    "date": "February 2025",
+    "image": "/clouds.png",
+    "video": "/clouds.mp4",
+    "description": "A tactile interface experiment with dynamic control elements",
+    "tags": ["UI", "Interaction", "Controls", "Three.js", "WebGL"],
+    "link": "https://clouds-pi.vercel.app/"
+  },
+  {
+    "id": "cone-portal",
+    "title": "Cone Portal",
+    "date": "December 2024",
+    "image": "/garden/cone-portal.jpg",
+    "description": "A geometric meditation on portals and dimensional transitions",
+    "tags": ["Shaders", "Geometry", "WebGL"],
+    "link": "/garden/cone-portal"
+  },
+  {
+    "id": "specialization",
+    "title": "Specialization is for insects",
+    "date": "December 2024",
+    "quote": "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts...",
+    "description": "Reflections on generalism and the pursuit of diverse skills",
+    "tags": ["Writing", "Philosophy"],
+    "link": "/garden/specialization"
+  },
+  {
+    "id": "audio-viz",
+    "title": "Audio Visualization",
+    "date": "January 2025",
+    "image": "/garden/audio-viz.jpg",
+    "description": "Real-time audio reactive visualization with WebAudio API",
+    "tags": ["Audio", "Visualization", "Canvas"],
+    "link": "/garden/audio-viz"
+  },
+  {
+    "id": "gradient-generator",
+    "title": "Gradient Generator",
+    "date": "November 2024",
+    "image": "/garden/gradient-generator.jpg",
+    "description": "An exploration of color theory and interactive gradients with multiple gradient cards",
+    "tags": ["Design", "Color", "Interactive", "Gradients"],
+    "link": "/garden/gradient-generator",
+    "featured": true
+  }
+]

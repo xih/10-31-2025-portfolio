@@ -23,14 +23,14 @@ export default function RootLayout({
       suppressHydrationWarning
     >
       <body>
-        <VoiceRecorderProvider>
-          <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
-            <TRPCReactProvider>
-              {children}
-              <Toaster position="bottom-right" />
-            </TRPCReactProvider>
-          </ThemeProvider>
-        </VoiceRecorderProvider>
+        {/* <VoiceRecorderProvider> */}
+        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+          <TRPCReactProvider>
+            {children}
+            <Toaster position="bottom-right" />
+          </TRPCReactProvider>
+        </ThemeProvider>
+        {/* </VoiceRecorderProvider> */}
       </body>
     </html>
   );
